@@ -43,12 +43,8 @@
 | 💜 [InternMate](https://github.com/PENDHOTAPOORNITHA/InternMate) | Internship management platform designed to simplify the internship journey |
 | 🗣️ [Intelligent Speech Therapy](https://github.com/PENDHOTAPOORNITHA/Intelligent-Speech-Therapy) | AI-based speech therapy application focused on pronunciation and phoneme assessment |
 
-### 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PENDHOTAPOORNITHA&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PENDHOTAPOORNITHA&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PENDHOTAPOORNITHA&theme=tokyonight&hide_border=true" />
